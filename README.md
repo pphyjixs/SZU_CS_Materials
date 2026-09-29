@@ -1,2 +1,2 @@
 # SZU_CS_Materials
-整理了深圳大学计算机与软件学院学生生活中可以用到的资料
+A collection of useful resources for students in the College of Computer Science and Software Engineering at Shenzhen University.
