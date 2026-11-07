@@ -9,5 +9,6 @@
 - MOOC刷课脚本：[UOOC assistant](https://greasyfork.org/zh-CN/scripts/413268-uooc-assistant)
 
 - 还有一个用于复选阶段抢课的脚本，我临时找不到了，后面找到补充下
+- https://github.com/Lewin671/YourLesson
 
 
